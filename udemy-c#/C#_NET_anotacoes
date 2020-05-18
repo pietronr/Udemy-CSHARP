@@ -1,0 +1,11 @@
+C# e .NET
+
+BCL -  Base Class Library;
+CLR - Common Language Runtime (Maquina Virtual)
+   * Possui Garbage Collection (objetos nao utilizados sao automaticamente deslocados)
+   
+Implementacoes: 
+* 2002 - Microsoft .NET Framwork (Apenas Windows, aplicativos Desktop e aplicativos wev ASP.NET rodando sobre ISS);
+* 2004 - Mono (Codigo Aberto, Multiplataforma, usado para criar jogos, tipo Unity);
+* 2011 - Xamarim (Aplicativos moveis para IOS e Android e aplicacoes Desktop para Mac OS);
+* 2016 - .NET Core (Tambem Codigo Aberto, Multiplataforma e criar aplicativos Web.NET Core e servicos para nuvem);

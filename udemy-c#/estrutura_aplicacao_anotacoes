@@ -1,0 +1,12 @@
+Estrutura de uma aplicacao .NET
+
+* Namespace = Agrupamento LOGICO de classes relacionadas
+As classes podem ser organizadas em, por exemplo, Entities, Services, Repositories;
+
+* Assembly (DLL ou EXE) = Agrupamento FISICO de classes relacionadas (build)
+Divisao dos subprojetos do sistema, por exemplo, Modulo Financeiro, Modulo de Graficos;
+
+* Aplicacao = Agrupamento de assemblies relacionados
+Aplicacao~Solution
+Assembly~Project
+Sistema formado por todas as assemblies, por exemplo, um Sistema de comércio eletrônico
