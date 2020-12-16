@@ -1,0 +1,11 @@
+Tipos básicos de dados em C#
+- C# é uma linguagem estaticamente tipada;
+- Tipos de valores pre-definidos em C#;
+- Tipos de referencia pre-defindidos em C#;
+- Variavl nao atribuida;
+- Overflow;
+- Padrao para float: sufixo "f";
+- Padrao para char: aspas simples;
+- Padrao para string: aspas duplas;
+- Padrao para bool: true, false;
+- Opcao: inferencia de tipos com palavra "var" (dentro de metodos)

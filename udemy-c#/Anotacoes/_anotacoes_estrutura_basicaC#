@@ -1,0 +1,14 @@
+Estrutura basica de um programa C#
+
+* Estrutura de arquivos:
+- Arquivo .sln;
+- Arquivo .csproj -> Arquivo de configuracao;
+- Classe principal .cs -> Codigo em si;
+- Subpastas obj e bin -> Arquivos compilados;
+
+* Program.cs:
+- Clausulas using: referencia a outros namespaces;
+- Namespace;
+- Classe;
+- Metodo;
+- static void main(string[] args)

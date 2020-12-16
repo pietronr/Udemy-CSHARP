@@ -1,0 +1,10 @@
+Restrição para nomes de variáveis
+- Não pode começar com dígito: use uma letra ou _
+- Não usar acentos ou til;
+- Não pode ter espaço em braco;
+- Sugestão: use nomes que tenham significado;
+
+Convenções:
+- Camel Case: lastName (parâmetros de métodos, variáveis dentrode métodos)
+- Pascal Case: LastName (namespace, classe, properties e métodos);
+- Padrão_lastName (atributos "iternos" da classe)
