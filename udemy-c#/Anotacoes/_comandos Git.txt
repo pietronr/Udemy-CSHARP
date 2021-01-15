@@ -1,0 +1,58 @@
+.gitignore => Arquivo que especifica o que será ignorado no controle de versão (só pesquisar no google)
+
+git init => Inicia o .git, controle de versão
+
+git config --global user.name "Seu Nome"
+git config --global user.email "Seu email" (bacana ser igual ao GitHub)
+=> Serve para identificar os usuários das alterações no repositório
+
+git status => Verificar como está o repositório
+Vermelho: Arquivos não rastreados(não foi gravado a alteração)
+
+git add . => Grava os arquivos
+Verde: Arquivos ficam como "stage"(Grava e fica pronto para o "commit" git status)
+
+git commit -m "Description" => Commita as alterações e salva a descrição
+Não haveram mais arquvivos "to commit" (git status)
+
+git log => Mostra o autor, a data, o commit e sua descrição
+
+git log --oneline => Mostra apenas um resumo dos commits
+
+
+E se eu esquecer de especificar a mensagem no commit?
+Abre o editor VIM, mas no momento será evitado
+1- Tecle <ESC>
+2- :q!
+3- Tecle <ENTER>
+3- commit será abortado
+4- usa o git commit -m "Desc" novamente
+
+E se eu me perder e quiser voltar ao estado do commit atual?
+1- git clean -df
+2- git checkout -- .
+3- Ao voltar para o VS, será possível recarregar o arquivo para o estado do último commit
+
+E se eu quiser desfazer o último commit?
+1) Remover o último commit mantendo as alterações nos arquivos:
+git reset --soft HEAD~1
+git log --oneline => O commit desaparece
+git status => Diz que há uma alteração a ser commitada, pode commitar ou alterar o projeto
+git add . => Caso eu altere o arquivo, tem que gravar novamente
+git commit -m "Desc" => Commit refeito
+
+2) Remover o commit e as alterações:
+git reset --hard HEAD~1
+git log --oneline => O commit desaparece e as alterações também, no VS as alterações do último commit terão sumido
+
+E se eu quiser somente dar uma olhada em uma versão anterior?
+(tem que estar sem alteração, nada pra commitar)
+1) Navegar entre commits, alterando os arquivos temporariamente:
+git checkout <código do commit> (obtido em git log)
+
+2) Voltar para o último commit:
+git checkout <nome do branch>
+
+Obs: Não escreve com <>, exemplo, git checkout master
+
+
