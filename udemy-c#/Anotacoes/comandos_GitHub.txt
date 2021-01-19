@@ -1,0 +1,21 @@
+Associando um repositório remoto ao seu reposutório local
+1) Associar nosso repositório local ao repositório remoto, dando o apelido de "origin" a ele:
+git remote add origin <URI do repositório remoto> (essa linha o GitHub nos dá ao criar um repositório)
+
+2) Associar o repositório local a um outro repositório remoto, porém mantendo o mesmo apelido:
+git remote set-url origin <URI do repositório remoto>
+
+Subindo o repositório local para GitHub
+git push -u origin master
+Nota: se você usou a opção -u, nas próximas vezes que for subir o branch master, basta fazer:
+git push
+
+Copiando um repositório remoto para seu computador
+1) Copiar o repositório, inclusive o histórico de commits:
+git clone <URI do repositório remoto>
+ATENÇÃO: simplesmente copiar os arquivos NÃO traz o histórico de commits!
+
+Atualizando seu repositório local
+IMPORTANTE: o Git só deixa você continuar um trabalho e depois subi-lo para o repositório remoto, se você mantiver a sequência coerente de commits.
+Comando para atualizar seu repositório local: 
+git pull origin master
