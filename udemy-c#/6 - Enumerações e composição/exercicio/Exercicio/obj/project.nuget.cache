@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EbPaehho25991mXLpG5XAHWzaEtHKrQf5S2CWPbCYOTNwXblT50b9vc/y3TNo/btmdJgb6iXyfBsqiDv/EdXLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pietr\\OneDrive\\Documentos\\udemy-c#\\6 - Enumerações e composição\\exercicio\\Exercicio\\Exercicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pietr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
