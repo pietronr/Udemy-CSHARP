@@ -1,0 +1,13 @@
+C:\Users\pietr\OneDrive\Documentos\udemy-c#\7 - Herança e polimorfismo\repos\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\Users\pietr\OneDrive\Documentos\udemy-c#\7 - Herança e polimorfismo\repos\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Users\pietr\OneDrive\Documentos\udemy-c#\7 - Herança e polimorfismo\repos\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\pietr\OneDrive\Documentos\udemy-c#\7 - Herança e polimorfismo\repos\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\pietr\OneDrive\Documentos\udemy-c#\7 - Herança e polimorfismo\repos\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\Users\pietr\OneDrive\Documentos\udemy-c#\7 - Herança e polimorfismo\repos\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Users\pietr\OneDrive\Documentos\udemy-c#\7 - Herança e polimorfismo\repos\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+C:\Users\pietr\OneDrive\Documentos\udemy-c#\7 - Herança e polimorfismo\repos\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\pietr\OneDrive\Documentos\udemy-c#\7 - Herança e polimorfismo\repos\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\pietr\OneDrive\Documentos\udemy-c#\7 - Herança e polimorfismo\repos\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\pietr\OneDrive\Documentos\udemy-c#\7 - Herança e polimorfismo\repos\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\Users\pietr\OneDrive\Documentos\udemy-c#\7 - Herança e polimorfismo\repos\Course\obj\Debug\netcoreapp3.1\Course.pdb
+C:\Users\pietr\OneDrive\Documentos\udemy-c#\7 - Herança e polimorfismo\repos\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache
