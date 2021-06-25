@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "blNqbod6yYQAD5CwU6XR+ZtH8ra2FQ8SRFLAF9UIi/DE6J9krqaMyHHclZkaRXbZ8h2/y7CtbeHhs9qQ1hi5Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pietr\\OneDrive\\Documentos\\udemy-c#\\7 - Herança e polimorfismo\\repos\\Exercicio3\\Exercicio3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pietr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
