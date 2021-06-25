@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QCdizVtGCetVbXy4KLwShmYKvu+xDhTRg0B2cuZe0/861bpTtRiLtCCbgAlHPvkAVOT8CmRa3BVgP6UHlgE8aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pietr\\OneDrive\\Documentos\\udemy-c#\\8 - Tratamento de exceções\\repos\\Exercicio\\Exercicio\\Exercicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pietr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
