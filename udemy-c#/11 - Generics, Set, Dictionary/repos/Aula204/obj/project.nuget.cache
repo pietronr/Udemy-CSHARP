@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l9yQn6SuoFXNo0GXmqpwVn4OZTyv7yfZQSYmO5g4jikbPM4dIWHM6cKrlbgj+eg9K25P/NPZizpCFJzwuuyVHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pietr\\OneDrive\\Documentos\\udemy-c#\\11 - Generics, Set, Dictionary\\repos\\Aula204\\Aula204.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pietr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
